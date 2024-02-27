@@ -1,4 +1,3 @@
-_Curious how this dynamic README was made? Check out https://youtu.be/jVg-qkQ01lI_
 
 # Hi, I'm Armaan 👋
 
