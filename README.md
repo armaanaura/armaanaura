@@ -1,5 +1,5 @@
 
-# Hi, I'm Armaan 👋
+# Hi, I'm Armaandeep Singh 👋
 
 <strong>I am a Machine Learning Engineer and AI Developer</strong>
 
