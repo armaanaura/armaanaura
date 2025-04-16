@@ -16,4 +16,6 @@ You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/armaanaura)
 * 🗣 [Twitter](https://twitter.com/armaanaura)
 * 📷 [Instagram](https://www.instagram.com/armaanaura)
-* ✉️ [daveybitter@gmail.com](mailto:helloarmaanaura@gmail.com)
+* ✉️ [armaanaura@outlook.com #](mailto: armaanaura@outlook.com)
+
+
