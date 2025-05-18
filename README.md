@@ -1,21 +1,46 @@
+# 👋 Hi, I'm Armaan Singh
 
-# Hi, I'm Armaandeep Singh 👋
+### 💻 Machine Learning Engineer | AI Developer | Software Engineer | Golang & Python Specialist | Building Pristinum Research
 
-<strong>I am a Machine Learning Engineer and AI Developer</strong>
+🚀 I'm a Machine Learning Engineer and AI Developer with **3+ years of hands-on experience** building intelligent AI systems and scalable backend infrastructures.
 
-Hello, I'm a machine learning enthusiast currently in my 4th year of studies. Over the past 3 years, I've been dedicated to practicing machine learning and AI, translating my knowledge into practical projects and tackling diverse data structures and algorithms challenges.
+🏢 Currently, I work as a **Software Engineer** at one of **India’s top consulting firms**, where I engineer robust systems using **Golang**, **Python**, and modern **system design principles**.
 
-My proficiency includes Java, deep learning, system design, Flask, and Python. I am passionate about leveraging these skills to contribute to the rapidly evolving field of artificial intelligence.
+🎓 I graduated in 2024 and completed a 6-month **AI/ML internship** at **KocharTech**, working on deep learning, computer vision, and automation solutions.
 
-My approach to problem-solving is methodical, and I thrive on challenges. I am eager to apply my expertise to create innovative AI projects and explore new frontiers in technology. I continue to deliver innovative, user-centered web solutions that exceed client expectations.
+🏆 I'm also an active problem solver with **800+ LeetCode problems** solved and a **rating of 1800+ (top 7%)**.
 
-In conclusion, my skills, experience, and passion make me a valuable asset to any organization. I am excited about the prospect of contributing to an organization's mission of delivering exceptional web experiences and look forward to the opportunity to discuss my qualifications further.
+---
 
-## Social 📱
-You can find me on the following social media platforms or send me an email:
-* 👔 [LinkedIn](https://www.linkedin.com/in/armaanaura)
-* 🗣 [Twitter](https://twitter.com/armaanaura)
-* 📷 [Instagram](https://www.instagram.com/armaanaura)
-* ✉️ [armaanaura@outlook.com #](mailto: armaanaura@outlook.com)
+### 🛠️ Core Skills
 
+- **Languages & Frameworks:**  
+  `Golang` · `Python` · `Java` · `Flask` · `FastAPI`
+  
+- **AI / Machine Learning:**  
+  `Deep Learning` · `Computer Vision` · `NLP` · `TensorFlow` · `PyTorch` · `OpenCV`
+  
+- **Backend & System Design:**  
+  `REST APIs` · `Microservices` · `Distributed Systems` · `Redis` · `PostgreSQL` · `Docker`
+  
+- **Other Tools & Concepts:**  
+  `Git` · `Linux` · `Data Structures & Algorithms (DSA)` · `CI/CD` · `WebSockets`
 
+---
+
+### 🚀 What Drives Me
+
+I thrive in fast-paced environments and love turning complex problems into innovative AI-powered solutions. I'm constantly exploring emerging technologies to stay ahead in this ever-evolving tech landscape.
+
+---
+
+### 📱 Connect With Me
+
+- [👔 LinkedIn](https://www.linkedin.com/in/armaanaura)
+- [🐦 Twitter](https://twitter.com/armaanaura)
+- [📸 Instagram](https://www.instagram.com/armaanaura)
+- [📬 Email Me](mailto:armaanaura@outlook.com)
+
+---
+
+_Thanks for visiting my profile! Feel free to connect or reach out for collaboration, projects, or just to chat tech!_
