@@ -8,7 +8,7 @@ Currently, I work as a **Software Engineer** at one of **India’s top consultin
 
 I graduated in 2024 and completed a 6-month **AI/ML internship** at **KocharTech**, working on deep learning, computer vision, and automation solutions.
 
-I'm also an active problem solver with **800+ LeetCode problems** solved and a **rating of 1800+ (top 7%)**.
+I'm also an active problem solver with **500+ LeetCode problems** solved and a **rating of 1800+ (top 7%)**.
 
 ---
 
